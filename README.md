@@ -21,14 +21,16 @@
 ## About
 Detecting objects and their relations in images in the form of a graph data structure and generating graphs to represent relations between objects in a given image.
 
+<img width="1430" alt="img2" src="https://github.com/Kamakshi8104/Scene_graph_generator/assets/123080340/35ae0a6d-d64f-4248-91fd-8fa16718f182">
 
-<img src="/images/images/img2.png"/>
+
 
 ----------
 ## Implementation details of Scene Graph Generator
+<img width="1550" alt="img1" src="https://github.com/Kamakshi8104/Scene_graph_generator/assets/123080340/17c46717-d7d5-4ef3-be27-68d466e7469f">
 
 
-<img src="/images/images/img1.png"/>
+
 
 ---
 ## YOLO to detect object
